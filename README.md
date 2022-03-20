@@ -1,4 +1,4 @@
-## STAT 630, Fall 2021
+## STAT 630: Statistical Methods, Fall 2021
 
 ### Lectures
 
