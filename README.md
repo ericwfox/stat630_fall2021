@@ -1,4 +1,6 @@
-STAT 630 Lectures, Fall 2021
+## STAT 630, Fall 2021
+
+### Lectures
 
 * Lecture 1: Introduction 
 * Lecture 2: Sampling Methods
@@ -15,3 +17,19 @@ STAT 630 Lectures, Fall 2021
 * Lecture 13: Chi-Square Tests
 * Lecture 14: Simple Linear Regression 
 * Lecture 15: Inference for Simple Linear Regression
+
+### Labs
+
+* Lab 1: Intro to R
+* Lab 2: Subsetting and Basic Data Summaries
+* Lab 3: Intro to Data Visualization
+* Lab 4: Normal Distribution in R
+* Lab 5: Sampling Distributions
+* Lab 6: Intro to the Bootstrap
+* Lab 7: Inference for Means Using R
+* Lab 8: Inference for Proportions and Chi-Square Tests using R
+* Lab 9: Data Wrangling with dplyr
+
+
+
+
